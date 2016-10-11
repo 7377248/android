@@ -1,3 +1,0 @@
-MyActivity extents Activity{
-	onCreate();
-}
